@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org/%22%3E">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<div class="container">
+	<h1>Seleziona lingua</h1>
+	<form action=""  th:action="@{/lingua}" method="post">
+		<p>Scrivi "italiano" o "inglese" per selezionare la lingua</p>
+		<input type="text" name="lingua">
+		<button type="submit">Seleziona lingua</button>
+	</form>
+	</div>
+</body>
+</html>
