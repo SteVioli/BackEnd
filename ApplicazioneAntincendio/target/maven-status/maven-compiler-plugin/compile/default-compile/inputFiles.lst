@@ -1,0 +1,13 @@
+C:\Users\39380\JavaRepo\ApplicazioneAntincendio\src\main\java\com\SistemaRilevamentoIncendi\entities\DeviceFactory.java
+C:\Users\39380\JavaRepo\ApplicazioneAntincendio\src\main\java\com\SistemaRilevamentoIncendi\utils\DeviceType.java
+C:\Users\39380\JavaRepo\ApplicazioneAntincendio\src\main\java\com\SistemaRilevamentoIncendi\entities\Sonda.java
+C:\Users\39380\JavaRepo\ApplicazioneAntincendio\src\main\java\com\SistemaRilevamentoIncendi\repositories\ProcessRepository.java
+C:\Users\39380\JavaRepo\ApplicazioneAntincendio\src\main\java\com\SistemaRilevamentoIncendi\entities\ProcessFactory.java
+C:\Users\39380\JavaRepo\ApplicazioneAntincendio\src\main\java\com\SistemaRilevamentoIncendi\entities\DeviceProcess.java
+C:\Users\39380\JavaRepo\ApplicazioneAntincendio\src\main\java\com\SistemaRilevamentoIncendi\SpringBootSistemaRilevamentoIncendiApplication.java
+C:\Users\39380\JavaRepo\ApplicazioneAntincendio\src\main\java\com\SistemaRilevamentoIncendi\services\SondaService.java
+C:\Users\39380\JavaRepo\ApplicazioneAntincendio\src\main\java\com\SistemaRilevamentoIncendi\entities\CommandCenter.java
+C:\Users\39380\JavaRepo\ApplicazioneAntincendio\src\main\java\com\SistemaRilevamentoIncendi\repositories\SondaRepository.java
+C:\Users\39380\JavaRepo\ApplicazioneAntincendio\src\main\java\com\SistemaRilevamentoIncendi\runners\Runner.java
+C:\Users\39380\JavaRepo\ApplicazioneAntincendio\src\main\java\com\SistemaRilevamentoIncendi\services\ProcessService.java
+C:\Users\39380\JavaRepo\ApplicazioneAntincendio\src\main\java\com\SistemaRilevamentoIncendi\entities\Device.java
